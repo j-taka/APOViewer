@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/FitAll.png</file>
+        <file>Resources/Home.png</file>
+        <file>Resources/Pan.png</file>
+        <file>Resources/Rotate.png</file>
+        <file>Resources/Zoom.png</file>
+        <file>Resources/left.png</file>
+        <file>Resources/right.png</file>
+    </qresource>
+</RCC>
